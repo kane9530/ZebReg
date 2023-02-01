@@ -1,6 +1,6 @@
 # ZebReg
-Note: ZebReg was designed in a collaboration between Dillan Saunders and me. This publically available repository contains the work done on ZebReg that is carried out by me. 
- 
+Note: ZebReg was designed in a collaboration between Dillan Saunders and myself. 
+
 ## Brief introduction
 
 ZebReg is a 3D, non-landmark-based image registration python tool which we developed to integrate cellular position and nuclear gene-expression information from confocal images of zebrafish tailbuds. Leveraging upon the open-source open3D library (Zhou et al., 2018), ZebReg implements a set of rigid body, point-based registration algorithms that are popular in the field of geometric registration to align a 3D point cloud (source cloud) into a reference point cloud (target cloud). 
